@@ -1,0 +1,71 @@
+[submodule "animation-samples"]
+	path = animation-samples
+	url = https://github.com/android/animation-samples.git
+
+[submodule "architecture-components-samples"]
+	path = architecture-components-samples
+	url = https://github.com/android/architecture-components-samples.git
+
+[submodule "architecture-samples"]
+	path = architecture-samples
+	url = https://github.com/android/architecture-samples.git
+
+[submodule "camera-samples"]
+	path = camera-samples
+	url = https://github.com/android/camera-samples.git
+
+[submodule "codelab-android-datastore"]
+	path = codelab-android-datastore
+	url = https://github.com/android/codelab-android-datastore.git
+
+[submodule "compose-samples"]
+	path = compose-samples
+	url = https://github.com/android/compose-samples.git
+
+[submodule "connectivity-samples"]
+	path = connectivity-samples
+	url = https://github.com/android/connectivity-samples.git
+
+[submodule "location-samples"]
+	path = location-samples
+	url = https://github.com/android/location-samples.git
+
+[submodule "ndk-samples"]
+	path = ndk-samples
+	url = https://github.com/android/ndk-samples.git
+
+[submodule "nowinandroid"]
+	path = nowinandroid
+	url = https://github.com/android/nowinandroid.git
+
+[submodule "performance-samples"]
+	path = performance-samples
+	url = https://github.com/android/performance-samples.git
+
+[submodule "platform-samples"]
+	path = platform-samples
+	url = https://github.com/android/platform-samples.git
+
+[submodule "security-samples"]
+	path = security-samples
+	url = https://github.com/android/security-samples.git
+
+[submodule "storage-samples"]
+	path = storage-samples
+	url = https://github.com/android/storage-samples.git
+
+[submodule "sunflower"]
+	path = sunflower
+	url = https://github.com/android/sunflower.git
+
+[submodule "testing-samples"]
+	path = testing-samples
+	url = https://github.com/android/testing-samples.git
+
+[submodule "user-interface-samples"]
+	path = user-interface-samples
+	url = https://github.com/android/user-interface-samples.git
+
+[submodule "views-widgets-samples"]
+	path = views-widgets-samples
+	url = https://github.com/android/views-widgets-samples.git
